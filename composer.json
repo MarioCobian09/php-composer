@@ -1,0 +1,15 @@
+{
+    "name": "marva/php-composer",
+    "type": "project",
+    "require": {
+        "firebase/php-jwt": "^6.10",
+        "symfony/http-foundation": "^6.4",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "authors": [
+        {
+            "name": "Mario Cobian",
+            "email": "marvanis@hotmail.com"
+        }
+    ]
+}
